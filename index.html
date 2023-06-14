@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A-Frame Component: Three-geo (Updated)</title>
+    <script src="https://aframe.io/releases/1.4.2/aframe.min.js"></script>
+    <script src="js/three-geo-component.js">
+    </script>
+</head>
+<body>
+    <a-scene>
+        <a-entity id="first" map="token: mapbox-token-here;
+                   lat: 36.2058;
+                   lng:  -112.4413;
+                   radius: 5;
+                   zoom: 13;
+                   axesHelper: false;
+                   flatMap: false;
+                   mapStyle: elevated;
+                   wireframeColor: #ffffff;
+                   " rotation="-90 180 0" position="0 0.7 -1.5" scale="2 2 2"></a-entity>
+                   <a-sky color="#000000"></a-sky>
+    </a-scene>
+</body>
+
+</html>
