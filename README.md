@@ -2,7 +2,7 @@
 <img src="img/screenshot.gif" title="Video screen capture" alt="Video screen capture" height="400">
 
 ### **Description / Rationale**
-This is an updated version of A-Frame component for "Three-geo", <a href="https://github.com/w3reality/three-geo">the library for 3D geographic visualization</a>.  The original version of the component was developed by <a href="https://github.com/w3reality/three-geo/issues/1">KJStrand</a>. The updated version is compativle with latest version of A-frame and has the following new features:
+This is an updated version of A-Frame component for "Three-geo", <a href="https://github.com/w3reality/three-geo">the library for 3D geographic visualization</a>.  The original version of the component was developed by <a href="https://github.com/w3reality/three-geo/issues/1">KJStrand</a>. The updated version is compatible with latest version of A-frame and has the following new features:
 * The component and three-geo files were combined into single file;
 * Flat map style was added;
 * Possibility of selecting the style of the map: elevated, wireframe and contour
