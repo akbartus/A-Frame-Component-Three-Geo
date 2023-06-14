@@ -55,4 +55,4 @@ To learn more about "Three-geo" library, check the repository page of it.
 The project is powered by AFrame and Three.js.
 
 ### **Demo**
-See demo of the component here: [Demo](https://pointcloud-transitions.glitch.me/)
+See demo of the component here: [Demo](https://three-geo.glitch.me/)
