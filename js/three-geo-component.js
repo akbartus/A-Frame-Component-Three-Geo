@@ -64,7 +64,7 @@ AFRAME.registerComponent('map', {
                                     geoScene.add(wireframeMesh);
                                 }
                             }
-                            // to save imafe refer to: mesh.material.map.image;
+                            // to save image refer to: mesh.material.map.image;
                         },
                         onVectorDem: (objs) => {
                             if (!this.data.flatMap) {
